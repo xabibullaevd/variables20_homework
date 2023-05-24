@@ -1,0 +1,59 @@
+Task 1:
+Declare a variable named age of type int and assign it any integer value.
+
+Task 2:
+Declare a variable named temperature of type double and assign it any decimal value.
+
+Task 3:
+Create a variable named name of type String and assign it your name.
+
+Task 4:
+Declare two variables named num1 and num2 of type double and assign them any decimal values.
+
+Task 5:
+Declare a variable named isRaining of type bool and assign it either true or false.
+
+Task 6:
+Create a variable named message of type String and assign it a message of your choice.
+
+Task 7:
+Declare a variable named studentCount of type int and assign it the number of students in your class.
+
+Task 8:
+Create a variable named pi of type double and assign it the value of pi (3.14159).
+
+Task 9:
+Declare a variable named favoriteColor of type String and assign it your favorite color.
+
+Task 10:
+Create a variable named isWeekend of type bool and assign it either true or false depending on whether it is currently a weekend or not.
+
+Task 11:
+Declare a variable named height of type double and assign it any decimal value representing your height.
+
+Task 12:
+Create a variable named birthYear of type int and assign it the year you were born.
+
+Task 13:
+Declare a variable named greeting of type String and assign it a greeting message of your choice.
+
+Task 14:
+Create a variable named temperatureInFahrenheit of type double and assign it any decimal value representing a temperature in Fahrenheit.
+
+Task 15:
+Declare a variable named isSunny of type bool and assign it either true or false depending on the weather condition.
+
+Task 16:
+Create a variable named favoriteFood of type String and assign it your favorite food.
+
+Task 17:
+Declare a variable named numberOfPets of type int and assign it the number of pets you have.
+
+Task 18:
+Create a variable named circleRadius of type double and assign it any decimal value representing the radius of a circle.
+
+Task 19:
+Declare a variable named gpa of type double and assign it your current grade point average.
+
+Task 20:
+Create a variable named isEvening of type bool and assign it either true or false depending on the time of day.
